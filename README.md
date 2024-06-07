@@ -33,6 +33,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emeyas-franco-9b201998?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)](https://www.linkedin.com/in/emeyas-franco-9b201998?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:emeyasdev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/emeyas-franco)
+[![Linkedin](https://img.shields.io/badge/-Emeyas_Franco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emeyas-franco-9b201998)](https://www.linkedin.com/in/emeyas-franco-9b201998)
+[![Gmail Badge](https://img.shields.io/badge/-emeyasdev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:emeyasdev@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/emeyas-franco?label=follow&style=social)](https://github.com/emeyas-franco)
