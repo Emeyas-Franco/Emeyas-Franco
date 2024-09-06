@@ -6,7 +6,7 @@
 - 🎓 Estudante de Ciências da Computação na Faculdade Anhanguera.
 - 🎓 Estudante de Desenvolvimento Web Fullstack no Instituto Master Training.
 - 💼 Ainda não trabalhando com desenvolvimento.
-- 🌱 Aprendendo mais sobre ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5),  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) e ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript).
+- 🌱 Aprendendo mais sobre bastante sobre as tecnologias![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5),  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript), ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php) e ![c](https://img.shields.io/badge/-c-333333?style=flat&logo=c) na faculdade e no curso.
 
 ## Minhas Skills
 
@@ -15,6 +15,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![c](https://img.shields.io/badge/-c-333333?style=flat&logo=c)
 
 
 **DevOps**
@@ -25,6 +27,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Code::Blocks](https://img.shields.io/badge/-Code%20Blocks-333333?style=flat&logo=code-blocks&logoColor=007ACC)
 
 <br/>
 
