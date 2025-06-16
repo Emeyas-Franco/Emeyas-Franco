@@ -3,11 +3,11 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de Web.
+- Eu sou o Emeyas Franco, Sou um Programador Front End, atualmente aprendendo e criando projetos com HTML, CSS e iniciando aprendizado em JavaScript e React.
 - 🎓 Estudante de Ciências da Computação na Faculdade Anhanguera.
 - 🎓 Estudante de Desenvolvimento Web Fullstack no DevClub.
 - 💼 Suporte Técnico em Supermercado Tatico, buscando vaga em desenvolvimento.
-- 🌱 Aprendendo mais sobre bastante sobre as tecnologias![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5),  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript), ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php) e ![c](https://img.shields.io/badge/-c-333333?style=flat&logo=c) na faculdade e no curso.
+- 🌱 Aprendendo mais sobre bastante sobre as tecnologias![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5),  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6), ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) na faculdade e no curso.
 
 ## Minhas Skills
 
@@ -32,9 +32,13 @@
 
 <br/>
 
-<a href="https://github.com/emeyas-franco" title="Perfil do Emeyas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emeyas-franco&theme=dracula&show_icons=true" />
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emeyas-Franco&show_icons=true&theme=dracula" alt="Emeyas Franco GitHub Stats" height="180""/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emeyas-Franco&layout=compact&theme=dracula" alt="Top Langs" height="180"/>
+</div>
+    
+<br/>
 
 ## Onde me encontrar
 
